@@ -24,3 +24,5 @@ Dentro de src existirão pastas com projetos dedicados a explorar um tema espec�
 
 O Roadmap é feito baseado na documentação do EFCore. Não pretendo seguir a documentação a risca, mas ir abordando os temas que foram de meu maior interesse no momento.
 
+O Roadmap será criado à medida que algum tema vai ser explorado, ou que temas venham surgir o interesse de ser abordado futuramente.
+
