@@ -20,9 +20,17 @@ Dentro de template está o projeto que será utilizado como base para os Temas q
 
 Dentro de src existirão pastas com projetos dedicados a explorar um tema específico do Roadmap cada.
 
+# Database
+
+Inspirado pelo projeto [JesHansen/.NET-Core-SQLite](https://github.com/JesHansen/.NET-Core-SQLite), vou utilizar o [Chinook database](https://github.com/lerocha/chinook-database) como base de refeência para os exemplos.
+
 # Roadmap
 
 O Roadmap é feito baseado na documentação do EFCore. Não pretendo seguir a documentação a risca, mas ir abordando os temas que foram de meu maior interesse no momento.
 
 O Roadmap será criado à medida que algum tema vai ser explorado, ou que temas venham surgir o interesse de ser abordado futuramente.
 
+- Template: Uma api simples que retorna os dados de uma tabela do SQLite.
+- Configurar Chinook Database
+- Mapeamentos
+- Relacionamentos
