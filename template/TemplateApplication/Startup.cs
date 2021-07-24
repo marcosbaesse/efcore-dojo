@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TemplateApplication.Data;
 
 namespace TemplateApplication
 {
@@ -24,6 +25,8 @@ namespace TemplateApplication
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            services.AddEntityFrameworkSqlite().AddDbContext<AppDbContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
